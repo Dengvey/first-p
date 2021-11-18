@@ -46,3 +46,11 @@
 </form>
 </div>
 <hr>
+
+css part
+
+.container{
+	background-color: rgb(72, 159, 185);
+	width: 500px;
+	padding: 50px;
+}
